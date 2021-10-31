@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">snailPorject</string>
+    <string name="i_don_t_know">i don\'t know</string>
+    <string name="res">終了</string>
+    <string name="todo">TODO</string>
+    <string name="deside">決定好了</string>
+    <string name="rad_paper">布</string>
+    <string name="rad_stone">石頭</string>
+    <string name="rad_scissor">剪刀</string>
+    <string name="textView3">你出拳</string>
+    <string name="tv_result">結果</string>
+</resources>
